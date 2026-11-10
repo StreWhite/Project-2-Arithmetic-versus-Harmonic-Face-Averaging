@@ -1,0 +1,5 @@
+# Exact top-level versions for the recorded Python 3.12 reference run.
+# Use requirements.txt instead if your Python version cannot install these.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
